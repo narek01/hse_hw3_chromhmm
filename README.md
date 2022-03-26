@@ -5,7 +5,7 @@
 
 Emission | Transition | HeLa-S3_10 Overlap Enrichment
 -|-|-
-![](data/Output/emissions_10.png)|![](data/Output/transitions_10.png.png)|![](data/Output/HeLa-S3_10_overlap.png)
+![](data/Output/emissions_10.png)|![](data/Output/transitions_10.png)|![](data/Output/HeLa-S3_10_overlap.png)
 
 ## Список меток
 
@@ -43,11 +43,11 @@ H2AFZ |	H2az.bam
 
 ### Скриншоты из UCSC
 Эпигенетические типы | Скриншот | Комментарий
-- | - | -
-1, 4 | ![](pictures/screenshot1_4.png) | GAPDH - ген домашнего хозяйства
-2, 3 | ![](pictures/screenshot2_3.png) | 2 и 3 расположены возле точки начала транскрипции
-4, 5, 10 | ![](pictures/screenshot4_5_10.png) | 4, 5 и 10 расположены на протяжении всего гена
-6, 7, 8, 9 | ![](pictures/screenshot6_7_8_9.png) | CRHR2 не экспрессируется в линии HeLa
+-|-|-
+1+4 | ![](pictures/screenshot1_4.png) | GAPDH - ген домашнего хозяйства
+2+3 | ![](pictures/screenshot2_3.png) | 2 и 3 расположены возле точки начала транскрипции
+4+5+10 | ![](pictures/screenshot4_5_10.png) | 4, 5 и 10 расположены на протяжении всего гена
+6+7+8+9 | ![](pictures/screenshot6_7_8_9.png) | CRHR2 не экспрессируется в линии HeLa
 
 ## Бонусная задача
 
