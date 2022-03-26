@@ -82,8 +82,7 @@ def bonus(filename):
                 s[3] = s[3] + '_' + names[s[3]]
                 s = '\t'.join(s)
             f2.write(s)
-			
-			
+
 bonus('HeLa-S3_10_dense')
 bonus('HeLa-S3_10_expanded')
 ```
